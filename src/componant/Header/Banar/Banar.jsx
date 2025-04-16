@@ -8,7 +8,7 @@ const Banar = () => {
                 <button className=' btn-primary'>test test</button>
             </div>
             <div>
-                <img src={bookimge} alt="" />
+                <img className='w-3/12' src={bookimge} alt="" />
             </div>
         </div>
     );
