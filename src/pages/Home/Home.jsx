@@ -1,9 +1,10 @@
 import React from 'react';
+import Banar from '../../componant/Header/Banar/Banar';
 
 const Home = () => {
     return (
         <div>
-          <h1>Hello word ami Home </h1>  
+          <Banar></Banar>  
         </div>
     );
 };
