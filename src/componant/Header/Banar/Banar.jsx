@@ -3,7 +3,7 @@ import bookimge from '../../../assets/books.jpg'
 const Banar = () => {
     return (
         <div>
-            <div className=' flex justify-around items-center'>
+            <div className=' flex justify-around items-center p-16 w-full'>
                 <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore accusamus, fugit omnis, vero praesentium hic natus tempore corporis voluptatibus accusantium repellendus ut unde fuga deleniti voluptatem officiis commodi culpa. Molestiae!</h1>
                 <button className=' btn-primary'>test test</button>
             </div>
