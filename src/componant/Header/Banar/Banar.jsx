@@ -1,6 +1,8 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import bookimge from '../../../assets/books.jpg'
+
 const Banar = () => {
+  
     return (
         <div className="flex justify-between items-center px-20 py-16 w-full">
         <div className="flex flex-col items-start gap-6 max-w-lg">
